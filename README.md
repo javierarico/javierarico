@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javierarico
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project to improve my skills in programming
 - 📫 How to reach me https://www.linkedin.com/in/javierarico/
 

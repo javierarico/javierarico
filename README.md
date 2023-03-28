@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javierarico, Front End Web Developer. I mostly work with HTML, CSS, JavaScript and React.
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and NodeJS
+- 🌱 I’m currently learning Backend: NodeJs, Express, MongoDB and Mongoose
 - 💞️ I’m looking to collaborate on any project to improve my skills in programming
 - 📫 How to reach me https://www.linkedin.com/in/javierarico/
 
